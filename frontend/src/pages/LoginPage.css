@@ -44,7 +44,8 @@
     }
   
     .login-card .img-fluid {
-      height: auto; /* Adjust height on smaller screens */
+      height: 60vh ; /* Adjust height on smaller screens */
+      width: 70vh;
     }
   }
   
